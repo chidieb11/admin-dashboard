@@ -1,4 +1,4 @@
 # Here is a live display:
-https://myadminapp.netlify.app/login
+https://myadminapp.netlify.app/
 
 ## use email: john@gmail.com password: password to login
